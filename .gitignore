@@ -1,0 +1,51 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.idsig
+*.aab
+*.hprof
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+*.log
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Markdown docs (keep only README)
+*.md
+!README.md
+
+# Thesis assets
+thesis/
+/claude/
+
+# Local context files
+CLAUDE.md
+claude.md
+HANDOFF.md
+handoff.md
+
+# Local research assets
+/asset/
